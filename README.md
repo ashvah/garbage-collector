@@ -1,5 +1,5 @@
 # GC
-Gabbage collector implemented by Java
-* RefCounter
-* Mark&Sweep
-* CopyCollection
+Gabbage collector implemented by Java  
+ - [x] RefCounter  
+ - [x] Mark&Sweep  
+ - [x] CopyCollection  
