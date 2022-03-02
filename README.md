@@ -1,4 +1,4 @@
-# GC
+# Garbage Collector
 A Garbage Collector implemented by Java  
  - [x] RefCounter  
  - [x] Mark&Sweep  
